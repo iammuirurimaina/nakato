@@ -5,6 +5,7 @@ import tailwindcss from '@tailwindcss/vite'
 // import {utils}
 
 export default defineConfig({
+  base: '/nakato/',
   plugins: [react()
 , tailwindcss()
   ],
