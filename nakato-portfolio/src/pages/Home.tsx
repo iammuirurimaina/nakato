@@ -1,5 +1,5 @@
 import { Palette, Camera, Music, Sparkles } from 'lucide-react';
-import Header from '../components/header';
+import Header from '../components/Header';
 import Footer from '../components/Footer';
 import HeroSection from '../components/HeroSection';
 import ServiceCard from '../components/ServiceCard';
